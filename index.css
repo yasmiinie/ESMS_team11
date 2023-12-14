@@ -810,8 +810,8 @@ html {
   top: 10%;
   left: 50%;
   transform: translateX(-50%);
-height: 3.5em; /* Adjust the size of the dot */
-  width: 3.5em; /* Adjust the size of the dot */
+  height:  11%;/* Adjust the size of the dot */
+  width: 300%; /* Adjust the size of the dot */
   background-color: var(--orange);
   border-radius: 50%;
 }
